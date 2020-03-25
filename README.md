@@ -1,25 +1,11 @@
-# README
+# 概要
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+所有物に内在する所有権の交換に特化したトークン規格RTE(Ethereumを用いて、SmartContractとして開発)とその実装例(Railsで開発途中)
 
-Things you may want to cover:
+# トークン規格RTE
+RTE/contracts/rte.sol
+
+# Railsの開発環境（開発途中）
 
 * Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# rte
+Rails 5.1.7
